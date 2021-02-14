@@ -1,0 +1,71 @@
+body {
+    text-align: justify;
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-family: "Libre Baskerville", serif; */
+    /* font-family: 'Cabin', sans-serif; */
+    font-family: 'Lora', serif;
+    font-size: 17px !important;
+}
+
+h1, h2, h3 {
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 2px;
+}
+
+#sec {
+    /* background-color: #0088CC; */
+    /* background-image: url("https://images.pexels.com/photos/5412/water-blue-ocean.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); */
+    /* background-image: url("https://images.pexels.com/photos/4915606/pexels-photo-4915606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); */
+    background-image: url('https://images.pexels.com/photos/579216/pexels-photo-579216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-attachment: fixed;
+    color: black;
+    padding: 0.5px;
+}
+
+.figure-caption {
+    color: white !important;
+}
+
+#org {
+    display: block;
+    padding-top: 1em;
+    background-image: url("https://images.pexels.com/photos/5412/water-blue-ocean.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    color: white !important;
+    background-attachment: fixed;
+    padding-bottom: 0.25em;
+}
+
+#orgi {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+#sec a {
+    background-color: rgb(15, 13, 110) !important;
+    color: white !important;
+}
+
+#org a {
+    background-color: whitesmoke;
+    color: black;
+}
+
+#rev {
+    background-image: url("https://images.pexels.com/photos/304664/pexels-photo-304664.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    padding: 1em 1em !important;
+    background-attachment: fixed;
+}
+
+button {
+    background-color: white !important;
+    color: black !important;
+}
+
+#bullets img {
+    width: 180px;
+    height: 150px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}

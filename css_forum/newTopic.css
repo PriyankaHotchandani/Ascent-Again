@@ -1,0 +1,57 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.background-image{
+  max-width:100%;
+  height: auto;
+}
+
+a{
+  color: #29a19c;
+}
+
+/* Navigation Bar */
+
+.navbar{
+  background-image: linear-gradient(#222831, #393e46, #29a19c);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 0 15px;
+}
+
+.nav-link{
+  font-family: "Montserrat";
+ font-size: 1.2rem;
+}
+
+/* Form-part */
+
+.topic-heading{
+  margin-bottom: 1rem;
+  padding: 1rem 1rem;
+  background-color: #29a19c;
+  text-align: left;
+}
+
+.th{
+
+  color: #a3ddcb;
+}
+
+.form-align{
+  padding: 1rem 1rem;
+}
+
+.labelling{
+  font-size: 1.2rem
+}

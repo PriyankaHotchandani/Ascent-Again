@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
+body {
+    background-image: url("https://images.pexels.com/photos/1467435/pexels-photo-1467435.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    font-family: "Libre Baskerville", serif;
+    background-position: center;
+    background-size: cover;
+    
+   }
+
+   .buttons{
+       background-color: #FFDEE9;
+       border-radius: 8px;
+   }
+   
+   .ele{
+       margin: 3% 20%;
+   }
+   

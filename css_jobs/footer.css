@@ -1,0 +1,9 @@
+.ftr{
+    background-color: rgb(199, 245, 224)
+}
+footer a{
+    color: #964343;
+}
+footer a:hover{
+    color: brown;
+}

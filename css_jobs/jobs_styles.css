@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css?family=Poiret+One|Raleway")
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+body{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 600;
+    background-image: url("https://images.pexels.com/photos/1484759/pexels-photo-1484759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+  }
+.jumbotron{
+    background-color:#7bdd72;
+    
+}
+#jam{
+    background-image: url("https://youthincmag.com/wp-content/uploads/2019/03/016987154_10100.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#jumb {
+    margin-left: 980px;
+    padding-left: 20px;
+}
+
+.lead{
+    font-family: 'Potta One' , cursive;
+    margin-left: 5px;
+    font-size: 50px;
+    background-color: rgb(255,255,255,0.5);
+    padding-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-primary{
+    background-color: #d11c1c;
+    border-radius: 5px;
+    border-color: #d11c1c;
+}
+.btn-primary:hover{
+    background-color: #d32929;
+    border-color: #d32929;
+}
+.alert-heading {
+    color: #000000;
+}
+.form-control{
+    margin-top: 12px;
+}
+.alert-warning {
+    color: #4f4a4a;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.alert {
+    background-color: #b6b6b3;
+    border: 0;
+}
+.atc{
+    margin-left: 500px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.img-fluid{
+    max-height: 450px;
+    max-width: 1000px;
+    margin-left: 40px;
+}
+.img-company{
+    max-width: 200px;
+}
+.img-tax{
+    max-width: 90%;
+}
+
+

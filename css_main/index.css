@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+.jumbotron {
+    background-image: url('logo.JPEG');
+    background-color: black;
+    background-size: 850px 850px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin-bottom: 5px !important;
+}
+
+body {
+    font-family: 'Lora', serif !important;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.42857143;
+    color: white;
+    background-color: black;
+}
+
+.btn-primary {
+    color: #101010;
+    background-color: #a2981a;
+    border-color: #75713c;
+}
+
+#tab ul li {
+    display: inline-flex !important;
+    text-align: left !important;
+    padding-top: 5px !important;
+}
+
+#tablebody {
+    background-color: rgb(0,0,0,0.6);    
+    display: inline-table !important;
+    border: 0ch;
+}
+
+ul ul {
+    list-style-type: circle;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.best-offer {
+    margin-top: 10px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    display: block;
+    display: table;
+}
+
+.jb {
+    padding-left: 0px;
+    padding-right: 20px;
+    background-image: url('https://images.pexels.com/photos/4226122/pexels-photo-4226122.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.best-offer .col-md-8 {
+    padding-right: 0px;
+    padding-left: 20px;
+}
+
+.best-offer-right-content {
+    background-color: beige;
+    padding: 20px 40px;
+    min-height: 550px;
+    height: 550px;
+}
+
+.job {
+    color: #000;
+}
+
+section {
+    padding-top: 4rem;
+}
+
+#section-newsletter {
+    padding-top: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.ti {
+    padding-top: 20px;
+}
+
+.whi {
+    color: white;
+}
+
+#tid {
+    text-align: center;
+    background-image: url('https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+#tablebody td {
+    margin-bottom: 2px;
+    padding-top: 33px;
+    width: 50%;
+}
+
+.ser img {
+    border-radius: 50%;
+    width: 210px;
+    height: 200px;
+}
+
+.ser {
+    color: #000;
+}
+
+.ser h1 {
+    color: #000;
+}
+
+.ser h3 {
+    color: #000;
+}
+
+div.background {
+    background: rgb(0,0,0,0.5) !important;
+}
+
+/* About Us */
+.home-section {
+    width: 100%;
+}
+
+#about {
+    padding: 64px 0px !important;
+}
+
+#abt {
+    text-align: center;
+}
+
+#abtimg img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.section-heading h2 {
+    font-size: 38px;
+    text-transform: uppercase;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    color: white;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+}
+
+h1 {
+    display: block;
+    margin-block-start: 20px;
+    margin-block-end: 30px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: brown;
+}
+
+.ser {
+    background-color: wheat;
+    margin-top: 20px;
+}
+
+.carousel-item {
+    margin-left: 110px;
+}
+
+.ther {
+    color: rgb(156 147 147);
+    padding-bottom: 150px;
+}
+
+.ther img {
+    border-radius: 10px;
+}
+
+.row {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.heading-line {
+    margin: 0 auto;
+    display: block;
+    height: 1px;
+    width: 80px;
+    background: white;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+#ser img {
+    max-width: 300px;
+    max-height: 250px;
+}
+
+.service .screenshot img {
+    margin-right: auto;
+    margin-left: 70px;
+    padding-left: 4px;
+    width: 400px;
+}
+
+.carousel-inner>.active, .carousel-inner>.next, .carousel-inner>.prev {
+    display: block;
+}
+
+/* Slideshow */
+.carousel-control-next, .carousel-control-prev {
+    width: 7%;
+}
+
+.col-md-6 {
+    padding-top: 20px !important;
+}
+
+.carousel-indicators {
+    bottom: -70px;
+}
+
+.forum {
+    padding-left: 0px;
+    padding-right: 5px;
+    background-image: url('https://cdn3.mycity4kids.com/images/article-images/web/headersV2/img-20190306-5c7f72b3a4ca1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
